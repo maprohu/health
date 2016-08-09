@@ -5,5 +5,7 @@ date:   2013-07-18
 categories: medical
 ---
 
-* [Images](/files/2013-07-18_rm_raquis_lombar/INDEX.HTM)
-* [Report](/files/2013-07-18_rm_raquis_lombar/IHE_PDI/00000001/00000000/00000000.PDF)
+* [Images]({{ site.baseurl }}/files/2013-07-18_rm_raquis_lombar/INDEX.HTM)
+* [Report]({{ site.baseurl }}/files/2013-07-18_rm_raquis_lombar/IHE_PDI/00000001/00000000/00000000.PDF)
+* [CD](https://docs.google.com/uc?id=0B4MwBWDwfaPEQ1BmZWwtWjd0d0E&export=download)
+
