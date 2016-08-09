@@ -5,6 +5,6 @@ date:   2013-07-18
 categories: medical
 ---
 
-* [Images]({{ site.baseurl }}/files/2013-07-18_lower_extremities_joelho_tagt/INDEX.HTM)
-* [Report]({{ site.baseurl }}/files/2013-07-18_lower_extremities_joelho_tagt/IHE_PDI/00000001/00000000/00000000.PDF)
+* [Images]({{ site.baseurl }}/files/2013-07-18_lower_extremities_joelho_tagt/index.htm)
+* [Report]({{ site.baseurl }}/files/2013-07-18_lower_extremities_joelho_tagt/ihe_pdi/00000001/00000000/00000000.pdf)
 * [CD](https://drive.google.com/uc?id=0B4MwBWDwfaPEMHVFZHVRMFVBQ1k&export=download)
