@@ -1,0 +1,9 @@
+---
+layout: post
+title:  RM Coluna Lombar
+date:   2013-07-18 
+categories: medical
+---
+
+* [Images](/files/2013-07-18_rm_raquis_lombar/INDEX.HTM)
+* [Report](/files/2013-07-18_rm_raquis_lombar/IHE_PDI/00000001/00000000/00000000.PDF)

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  TC Joelho
+date:   2013-07-18 
+categories: medical
+---
+
+* [Images](/files/2013-07-18_lower_extremities_joelho_tagt/INDEX.HTM)
+* [Report](/files/2013-07-18_lower_extremities_joelho_tagt/IHE_PDI/00000001/00000000/00000000.PDF)
